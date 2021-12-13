@@ -1,7 +1,7 @@
 # Hi 👋, I'm Isaac
 ![](https://komarev.com/ghpvc/?username=isaacpalou&color=blueviolet)
 
-- 🔭 I’m currently studying on <a href="https://www.cifpfbmoll.eu/">Francesc de borjamoll</a>
+- 🔭 I’m currently studying on <a href="https://www.cifpfbmoll.eu/"><b>CIFP Francesc de Borja Moll</b></a>
 
 - 🌱 I’m currently learning **Web applications development**
 
