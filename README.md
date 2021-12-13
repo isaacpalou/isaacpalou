@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isaac <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Isaac <img height="40" src="https://emoji.gg/assets/emoji/5887-animalcrossdance.gif"></h1>
 
 ![](https://komarev.com/ghpvc/?username=isaacpalou&color=blueviolet)
 
@@ -15,3 +15,4 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacpalou&layout=compact)
+
