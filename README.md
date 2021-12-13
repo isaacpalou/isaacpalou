@@ -1,4 +1,4 @@
-# Hi 👋, I'm Isaac Palou Gijón
+# Hi 👋, I'm Isaac
 ![](https://komarev.com/ghpvc/?username=isaacpalou&color=blueviolet)
 
 - 🔭 I’m currently studying on CIFP Francesc de Borja Moll
