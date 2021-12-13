@@ -1,4 +1,4 @@
-# Hi 👋, I'm Isaac
+<h1 align="center">Hi 👋, I'm Isaac <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 ![](https://komarev.com/ghpvc/?username=isaacpalou&color=blueviolet)
 
 - 🔭 I’m currently studying on <a href="https://www.cifpfbmoll.eu/"><b>CIFP Francesc de Borja Moll</b></a>
