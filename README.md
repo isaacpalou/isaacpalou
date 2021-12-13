@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on maximo.codes
 
-- 📫 How to reach me _palougijon@bmoll.eu
+- 📫 How to reach me _palougijon@cifpfbmoll.eu
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacpalou&show_icons=true&theme=radical)
 
