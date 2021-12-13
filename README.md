@@ -6,5 +6,5 @@
 ---
 
 <a href="https://github.com/zjayers/github-readme-stats">
-   <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
+   <img width="60%" alt="Isaac github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
 </a>
