@@ -15,5 +15,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacpalou&layout=compact)
 
-Courses that i have completed:
+**Courses that i have completed:**
 - https://university.mongodb.com/course_completion/dc100aa5-6759-4eb0-9d51-c6a658069c9b?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing
